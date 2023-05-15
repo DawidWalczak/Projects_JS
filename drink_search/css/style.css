@@ -28,7 +28,7 @@ body {
 	height: 360px;
 	padding: 20px 40px;
 	font-family: 'Dancing Script', cursive;
-	background-image: url('/drink_search/img/pistachios-g466ef28b6_1920.jpg');
+	background-image: url('../img/pistachios-g466ef28b6_1920.jpg');
 	background-size: cover;
 	background-position: center;
 	z-index: 0;
